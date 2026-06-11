@@ -45,6 +45,8 @@ Aplikasi ini dilengkapi fitur AI Chat yang memungkinkan pengguna berinteraksi de
 4. AI akan membalas dalam Bahasa Indonesia
 
 ---
+## Video Demo
+https://youtube.com/shorts/IBMSDXZGvx0?feature=share
 
 ## Screenshots
 
@@ -133,7 +135,7 @@ Implementasi Koin DI dengan 2 modules terpisah:
 
 ### Coverage Report
 
-![Coverage Report](coverage_report.png)
+![Coverage Report](Image/Coverage_Report.png)
 
 | Package | Class % | Method % | Line % |
 |---------|---------|---------|--------|
